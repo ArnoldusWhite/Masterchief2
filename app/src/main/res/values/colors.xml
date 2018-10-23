@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white_smoke">#F7F7F7</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="main_color_gray_dk">#44352d</color>
+    <color name="main_color_gray_dk1">#5B5252</color>
+    <color name="main_color_gray">#D4A270</color>
+    <color name="main_color_gray_lt">#a1a1a1</color>
+    <color name="gray_light">#DCD8D8</color>
+    <color name="main_gray_dk">#8a7b7b</color>
+    <color name="main_gray_lt">#b9abab</color>
+
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#F50057</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+
+</resources>

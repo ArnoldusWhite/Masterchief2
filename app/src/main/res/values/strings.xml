@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home_menu">ACCEUIL</string>
+    <string name="rec_menu">RECETTES</string>
+    <string name="fav_menu">MES FAVORIS</string>
+
+    <string name="incBtTitle">Incidents BT</string>
+    <string name="incMyTitle">Mes Incidents</string>
+    <string name="incAlertes">Alertes</string>
+    <string name="RadioSave">Enregistrer en tant que rapport</string>
+    <string name="RadioClose">Rapport et Clôture </string>
+    <string name="WriteReport">Ecricre votre rapport</string>
+    <string name="observInt">Observation Spoc :</string>
+    <string name="IntituleDesc">Description de l\'incident :</string>
+    <string name="enteteDesc">Fiche d\'incident </string>
+    <string name="titlelogin">Veuillez patienter...</string>
+    <string name="app_name">Master chief</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="forgot_my_pwd">Forgotten your password?</string>
+    <string name="search">Search</string>
+    <string name="signin">Sign In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="keep_me_signin">Keep me signed in</string>
+    <string name="no_account">No account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="signout">Sign Out</string>
+    <string name="recipes">Réception</string>
+    <string name="wine">Assigné</string>
+    <string name="profile">Alertes</string>
+    <string name="food_detail_txt">Most food has its origin in plants. Some food is obtained directly from plants . Maize, wheat, and rice – in all of their varieties – account for 87% of all grain production worldwide.[2] Most of the grain that is produced worldwide is fed to livestock.\n\nSome foods not from animal or plant sources include various edible fungi, especially mushrooms. Fungi and ambient bacteria are used in the preparation of fermented.</string>
+    <string name="title_activity_incident_list">IncidentList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_incident_detail">IncidentDetail</string>
+    <string name="title_activity_mes_incidents">MesIncidents</string>
+    <string name="title_activity_my_incident_detail">MyIncident_detail</string>
+    <string name="title_activity_score_fragment">ScoreFragment</string>
+    <string name="title_activity_score_detail">ScoreDetail</string>
+    <string name="title_activity_s">S</string>
+    <string name="title_activity_incident_container">IncidentContainer</string>
+    <string name="title_activity_alertes">Alertes</string>
+    <string name="title_activity_my_incident_tab_one">MyIncidentTab_one</string>
+    <string name="title_activity_my_incident_tab_report">MyIncidentTab_report</string>
+    <string name="title_activity_add_receipt">add_receipt</string>
+
+</resources>
